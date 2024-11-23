@@ -19,8 +19,8 @@ const App: React.FC = () => {
   return (
     
     <div className='relative'> 
-        <img src="/public/omuraisu.jpg" className='image absolute left-5 top-0 h-16 w-16'/>
-        <img src="/public/curryrice.jpg" className='image absolute top-0 right-5 h-16 w-16'/>
+        <img src="/public/omuraisu.JPG" className='image absolute left-5 top-0 h-16 w-16'/>
+        <img src="/public/curryrice.JPG" className='image absolute top-0 right-5 h-16 w-16'/>
       <header className='mx-12'>
         <h1 className='headertitle'>What's for Dinner?</h1>
         <div className='flex pl-8'>
