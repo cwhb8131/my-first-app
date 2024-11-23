@@ -5,7 +5,7 @@ import {LineShareButton,
     TwitterIcon,
   } from "react-share";
 
-const URL = 'https://example.com/';
+const URL = 'https://my-first-app-av1q.vercel.app/';
 const QUOTE = '今週の夜ご飯です！';
 
 const ShareButton = (props) => {
