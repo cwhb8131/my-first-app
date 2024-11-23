@@ -5,7 +5,7 @@ import {LineShareButton,
     TwitterIcon,
   } from "react-share";
 
-const URL = 'https://my-first-app-av1q.vercel.app/';
+const URL = 'https://gorgeous-sable-6bb81e.netlify.app/';
 const QUOTE = '今週の夜ご飯です！';
 
 const ShareButton = (props) => {
